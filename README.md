@@ -5,7 +5,7 @@
 
 - 📝 Tech Notion : <a href="https://river-pearl-643.notion.site/Hwi-s-GameDev-c5062a7c67824137b8fc15cd002c91ec?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Hwi's GameDev-000000?style=flat-square&logo=notion&logoColor=FFFFFF"/></a>
 
-- 📫 Contact Gmail : wnd4114294225
+- 📫 Contact Gmail : <img src="https://img.shields.io/badge/wnd4114294225-000000?style=flat-square&logo=gmail&logoColor=FFFFFF"/>
   
 <br>
 <p align="left">
