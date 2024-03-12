@@ -3,15 +3,21 @@
 
 - 🌱 Current Learn : **C#, Unity, Algorithm, CS**
 
-- 📝 Tech : <a href="https://river-pearl-643.notion.site/Hwi-s-GameDev-c5062a7c67824137b8fc15cd002c91ec?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=FFFFFF"/></a>
+- 📝 Tech Notion : <a href="https://river-pearl-643.notion.site/Hwi-s-GameDev-c5062a7c67824137b8fc15cd002c91ec?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Hwi's GameDev-000000?style=flat-square&logo=notion&logoColor=FFFFFF"/></a>
 
-- 📫 Gmail : <img src="https://img.shields.io/badge/wnd4114294225-000000?style=flat-square&logo=gmail&logoColor=FFFFFF"/>
+- 📫 Contact Gmail : wnd4114294225
+  
 <br>
 <p align="left">
 </p>
 
-## Lang & Stack :
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+## Lang & Stack : <br>
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://img.shields.io/badge/c++-000000?style=for-the-badge&logo=cplusplus&logoColor=white">
+    <img src="https://img.shields.io/badge/c%23-000000?style=for-the-badge&logo=csharp&logoColor=white">
+    <img src="https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=unity&logoColor=white">
+</div>
+
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leejunghwi&show_icons=true&locale=en&layout=compact" alt="leejunghwi" /></p>
 <br>
