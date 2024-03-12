@@ -3,9 +3,9 @@
 
 - 🌱 Current Learn : **C#, Unity, Algorithm, CS**
 
-- 📝 Tech Notion : [https://river-pearl-643.notion.site/Hwi-s-GameDev-c5062a7c67824137b8fc15cd002c91ec?pvs=4](https://river-pearl-643.notion.site/Hwi-s-GameDev-c5062a7c67824137b8fc15cd002c91ec?pvs=4)
+- 📝 Tech : <a href="https://river-pearl-643.notion.site/Hwi-s-GameDev-c5062a7c67824137b8fc15cd002c91ec?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=FFFFFF"/></a>
 
-- 📫 Email : **wnd4114294225@gmail.com**
+- 📫 Email : <a href="wnd4114294225@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-000000?style=flat-square&logo=gmail&logoColor=FFFFFF"/></a>
 <br>
 <p align="left">
 </p>
