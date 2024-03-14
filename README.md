@@ -1,11 +1,10 @@
-<h1 align="left">안녕하세요! 클라이언트 개발자 이중휘입니다.</h1>
-<h3 align="left">저는 전북대학교 컴퓨터공학부 4학년 재학중이며, 게임 개발에 관심 있어요.</h3>
+<h1 align="left">Intro.</h1>
 
-- 🌱 Current Learn : **C#, Unity, Algorithm, CS**
+- 🌱 Learn : **C#, Unity, Algorithm, CS**
 
-- 📝 Tech Notion : <a href="https://river-pearl-643.notion.site/Hwi-s-GameDev-c5062a7c67824137b8fc15cd002c91ec?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Hwi's GameDev-000000?style=flat-square&logo=notion&logoColor=FFFFFF"/></a>
+- 📝 Tech : <a href="https://river-pearl-643.notion.site/Hwi-s-GameDev-c5062a7c67824137b8fc15cd002c91ec?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Hwi's GameDev-000000?style=flat-square&logo=notion&logoColor=FFFFFF"/></a>
 
-- 📫 Contact Gmail : <img src="https://img.shields.io/badge/wnd4114294225-000000?style=flat-square&logo=gmail&logoColor=FFFFFF"/>
+- 📫 Contact : <a href="mailto:wnd4114294225@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=flat-square&logo=gmail&logoColor=FFFFFF"/>
   
 <br>
 <p align="left">
