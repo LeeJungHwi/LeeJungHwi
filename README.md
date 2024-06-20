@@ -8,8 +8,8 @@
 
 - ✨ repo *_. : game project (with. Unity)
 
+<!--
 <br>
-
 ⚡ Latest Tech Posts
 
 - [Effective C++](https://river-pearl-643.notion.site/Effective-C-2d569fe1beae4ae6b65abc6871cd02e5?pvs=4)
