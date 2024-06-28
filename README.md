@@ -1,4 +1,4 @@
-⭐️ I’m majoring in Computer Science at Jeonbuk National University.
+⭐️ I’m majoring in `Computer Science` at `Jeonbuk National University.`
 
 <table>
   <tr>
@@ -6,7 +6,7 @@
       🌱 Interest : Client Programmer<br><br>
       💬 Intro : <a href="https://river-pearl-643.notion.site/Hwi-s-GameDev-c8059651bb874e1eb673e97f49fddbae?pvs=4">JungHwi</a><br><br>
       📝 Tech : <a href="https://river-pearl-643.notion.site/Hwi-s-Tech-c5062a7c67824137b8fc15cd002c91ec?pvs=4">Tech</a><br><br>
-      ✨ repo *_. : game project (with. Unity)
+      ✨ Repo *_. : game project (with. Unity)
     </td>
     <td>
       <a href="https://solved.ac/wnd4114294225">
