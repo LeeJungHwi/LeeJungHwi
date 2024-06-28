@@ -1,4 +1,4 @@
-⭐️ I’m majoring in `Computer Science` at `Jeonbuk National University.`
+⭐️ I’m majoring in `Computer Science` at `Jeonbuk National University`.
 
 <table>
   <tr>
